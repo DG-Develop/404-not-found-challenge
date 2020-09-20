@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+.Header{
+    padding: 40px 77px;
+    height: 2rem;
+}
+
+.Header__title{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: normal;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    line-height: 25px;
+}
