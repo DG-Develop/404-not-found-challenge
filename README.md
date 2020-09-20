@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/xPCXscVPuEVa6EpgPbjr">
       Solution
     </a>
     <span> | </span>
@@ -38,12 +38,11 @@
 
 ![screenshot](https://i.ibb.co/yyPTbz5/2020-09-19-21h54-43.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+My demo can be seen on the following page: https://dg-develop.github.io/404-not-found-challenge/
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Now, in my experience it was an interesting challenge since I made the layout of the page with flex-box.
+
+I learned about importing fonts and about responsive page design, and to my knowledge, knew about React, Webpack, EsLint, Babel, and NPM.
 
 ### Built With
 
@@ -52,6 +51,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [React](https://reactjs.org/)
 - [SASS](https://sass-lang.com/documentation/syntax)
 - [Webpack](https://webpack.js.org)
+- [Babel](https://babeljs.io)
+- [Eslint](https://eslint.org)
 
 ## Features
 
@@ -65,8 +66,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Platzi](https://platzi.com)
+- [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Contact
 
