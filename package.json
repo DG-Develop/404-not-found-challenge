@@ -1,12 +1,14 @@
 {
   "name": "404-not-found-challenge",
   "version": "1.0.0",
+  "homepage": "https://dg-develop.github.io/404-not-found-challenge/",
   "description": "Desafio para crear un 404 page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --open --mode development"
+    "start": "webpack-dev-server --open --mode development",
+    "deploy": "gh-pages -d webpack --mode production"
   },
   "keywords": [
     "react",
@@ -34,6 +36,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.6",
     "file-loader": "^6.1.0",
+    "gh-pages": "^3.1.0",
     "html-loader": "^1.3.0",
     "html-webpack-plugin": "^4.4.1",
     "mini-css-extract-plugin": "^0.11.2",
